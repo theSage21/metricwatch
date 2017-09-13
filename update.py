@@ -57,4 +57,4 @@ if n_projects > 0:
     labels = [str(c) for c in com]
     plt.gca().set_xticklabels(labels, rotation=90)
     plt.legend()
-    plt.savefig('graph.svg')
+    plt.savefig('graph.png')
