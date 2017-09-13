@@ -1,7 +1,7 @@
 MetricWatch
 ===========
 
-![Graphs appear here](graph.svg)
+![Graphs appear here](graph.png)
 
 
 Instructions for use
@@ -35,3 +35,5 @@ n concurrent users : 50
 ```
 
 The first is the legend key, the second is the floating value. You can update this file over time and it's history will be tracked over time using git. Multiple projects have their own subplots. This plot is shown in this README file.
+
+It is the repo's responsibility to maintain the `.performance_metrics` file and update it over time.
